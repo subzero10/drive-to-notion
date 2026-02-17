@@ -15,5 +15,9 @@
 		"typescript": "^5.5.2",
 		"vitest": "~3.2.0",
 		"wrangler": "^4.65.0"
+	},
+	"dependencies": {
+		"mdast-util-from-markdown": "^2.0.2",
+		"micromark": "^4.0.2"
 	}
 }
